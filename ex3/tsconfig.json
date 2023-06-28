@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {},
+    "include": [
+      "src/**/*",
+      "**/*.spec.ts",
+      "**/*.test.ts"
+    ],
+    "esModuleInterop": true
+}
